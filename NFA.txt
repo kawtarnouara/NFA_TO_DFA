@@ -1,0 +1,8 @@
+NFA      a       b      c     Epsilon
+
+->*A     B       -     C|A       -
+ 
+ B       A       A     A|B       -
+*C       C       C      C        -
+
+
